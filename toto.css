@@ -45,16 +45,15 @@ body {
   top: 50%;
   width: 0;
   height: 0;
-  border-top: 12px solid transparent;
-  border-bottom: 12px solid transparent;
+  border-top: 8px solid transparent;/* Size of the arrow */
+  border-bottom: 8px solid transparent;
   cursor: ew-resize;
-  transition: all 0.2s ease-out; 
-/* Add transition property */
+  transition: all 0.2s ease-out;/* Add transition property */
 }
 
 .slider-handle::before {
   left: -24px;
-  border-right: 10px solid #FF0000;
+  border-right: 10px solid red;
 }
 
 .slider-handle::after {
