@@ -7,7 +7,7 @@ body {
 }
 .custom-image-slider {
     position: relative;
-    width: 10%;
+    width: 60%;
     overflow: hidden;
     height: 0;
     padding-bottom: 75%; 
