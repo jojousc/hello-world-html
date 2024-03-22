@@ -4,7 +4,8 @@
     width: 100%;
     overflow: hidden;
     height: 0;
-    padding-bottom: 75%; /* Adjust this value according to your image aspect ratio */
+    padding-bottom: 75%; 
+/* Adjust this value according to your image aspect ratio */
   }
 
   .slider-before,
@@ -42,7 +43,8 @@
   border-top: 12px solid transparent;
   border-bottom: 12px solid transparent;
   cursor: ew-resize;
-  transition: all 0.2s ease-out; /* Add transition property */
+  transition: all 0.2s ease-out; 
+/* Add transition property */
 }
 
 .slider-handle::before {
