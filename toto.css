@@ -7,10 +7,10 @@ body {
 }
 .custom-image-slider {
     position: relative;
-    width: 50%;
+    width: 20%;
     overflow: hidden;
     height: 0;
-    padding-bottom: 50%; 
+    padding-bottom: 20%; 
 /* Adjust this value according to your image aspect ratio */
   }
 
